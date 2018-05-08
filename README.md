@@ -1,0 +1,2 @@
+# Global
+ServiceNow custom application!
